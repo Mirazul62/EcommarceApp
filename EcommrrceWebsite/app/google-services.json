@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57648849088",
+    "firebase_url": "https://ecommrrcewebsite.firebaseio.com",
+    "project_id": "ecommrrcewebsite",
+    "storage_bucket": "ecommrrcewebsite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57648849088:android:c617ac7ad5174695428d25",
+        "android_client_info": {
+          "package_name": "com.example.ecommrrcewebsite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57648849088-5bcq93fkhgevtqirk07knd2o6e884dc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC53fjbjOxY_HwJaDq313o7viyrK5OL54Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57648849088-5bcq93fkhgevtqirk07knd2o6e884dc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
